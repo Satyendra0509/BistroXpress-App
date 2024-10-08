@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
-          <p>Welcome to <b>Satyendra Restaurant</b>, where tradition meets innovation. Enjoy a delightful mix of Indian, Chinese, and Continental dishes, crafted with fresh, locally sourced ingredients. Whether it’s a family meal or a romantic dinner, our warm ambiance and friendly service ensure an unforgettable dining experience. Come savor the flavors and create lasting memories!</p>
+          <p>Welcome to <b>BistroXpress App</b>, where tradition meets innovation. Enjoy a delightful mix of Indian, Chinese, and Continental dishes, crafted with fresh, locally sourced ingredients. Whether it’s a family meal or a romantic dinner, our warm ambiance and friendly service ensure an unforgettable dining experience. Come savor the flavors and create lasting memories!</p>
           <div className="footer-social-icons">
             <a href="https://www.facebook.com/your-profile" >
               <img src={assets.facebook_icon} alt="Facebook Profile" />
@@ -34,12 +34,12 @@ const Footer = () => {
           <h2>GET IN TOUCH</h2>
           <ul>
             <li>+9621XXXXX</li>
-            <li>contact@satyendra.com</li>
+            <li>contact@BistroXpress.com</li>
           </ul>
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Copyright 2024 © Satyendra.com - All Right Reserved.</p>
+      <p className="footer-copyright">Copyright 2024 © BistroXpress.com - All Right Reserved.</p>
     </div>
   )
 }
