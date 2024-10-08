@@ -34,32 +34,6 @@ The **BistroXpress App** is a responsive web application designed to enhance the
 ![photo_2024-09-01_15-20-54](https://github.com/user-attachments/assets/3a69b653-49f3-415c-96ca-8b9247452185)
 
 
-## Installation
-
-Follow these steps to set up the project locally:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/Satyendra0509/BistroXpress-App.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd BistroXpress-app
-    ```
-
-3. **Install dependencies**:
-    ```bash
-    npm install
-    ```
-
-4. **Start the development server**:
-    ```bash
-    npm start
-    ```
-
-5. **Open your browser** and go to `http://localhost:3000` to view the app.
-
 ## Usage
 
 - **Menu Browsing**: Explore the full menu and select your favorite dishes.
