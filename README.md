@@ -16,7 +16,7 @@ The **BistroXpress App** is a responsive web application designed to enhance the
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Version Control**: Git, GitHub
-- **Deployment**: Docker, AWS
+- **Deployment**: Docker
 
 ## Live Links
 
