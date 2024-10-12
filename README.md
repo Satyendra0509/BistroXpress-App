@@ -20,8 +20,8 @@ The **BistroXpress App** is a responsive web application designed to enhance the
 
 ## Live Links
 
-- **Frontend**:
-- **Admin Panel**:
+- **Frontend**:https://bistroxpress-app-frontend.onrender.com
+- **Admin Panel**:https://bistroxpress-app-admin.onrender.com
 ## Images
 
 
