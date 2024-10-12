@@ -45,10 +45,6 @@ The **BistroXpress App** is a responsive web application designed to enhance the
 
 We welcome contributions! Please fork the repository and submit a pull request. Make sure to follow the contribution guidelines provided in the `CONTRIBUTING.md` file.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any questions or suggestions, feel free to reach out:
